@@ -1,4 +1,4 @@
-## Hi there, I'm Tihomir - learning JavaScript and React developer👋
+## Hi there, I'm Tihomir - JavaScript and React student developer 👋
 
 ## 🌱 I’m currently learning in Software University Sofia
 
