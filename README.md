@@ -1,6 +1,6 @@
 ## Hi there, I'm Tihomir - JavaScript and React student developer 👋
 
-## 🌱 I’m currently learning in Software University Sofia
+## 🌱 I’m currently studying in Software University Sofia
 
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2023-2024 Goals: Learn more about React, Angular and JavaScript
