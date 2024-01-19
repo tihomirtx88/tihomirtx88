@@ -8,5 +8,5 @@
 - 🚀 I am self-motivated, I use good judgment and I have the ability to manage my time wisely to meet deadlines
 
 ## Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=js,react,css,git,figma&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,react,css,git,html,jquery,mongodb,mysql,nodejs,php,visualstudio,angular,figma&theme=light)](https://skillicons.dev)
 
